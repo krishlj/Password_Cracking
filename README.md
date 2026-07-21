@@ -3,4 +3,4 @@ This project provides hands-on experience in cryptography, password hashing, has
 The project also demonstrates file-integrity verification and password recovery from protected ZIP files, RAR archives, and SSH private keys. Each task includes practical training files and commands for independent implementation. By completing this project, you will understand why weak passwords and outdated hashing algorithms create security risks and learn defensive recommendations for stronger password storage, authentication, and credential protection.
 
 
-Download Hashing-Basics.zip for a practical demonstration. 
+Note: Download Hashing-Basics.zip for a practical demonstration. 
